@@ -177,9 +177,3 @@ export function mergeSortAnimations(array) {
     }
   
   }
-
-  
-
-  
-
-  
